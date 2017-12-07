@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit with Databases Demo</string>
+    <string name="try_again">Something went wrong !</string>
+</resources>
